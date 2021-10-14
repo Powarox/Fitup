@@ -1,0 +1,84 @@
+/* ---###---###--- Main ---###---###--- */
+.date {
+    color: white;
+    background: #3498db;
+    border-radius: 10px;
+    padding-left: 10px;
+    margin: 10px 10px;
+}
+
+
+
+.activity {
+    padding: 10px;
+    margin: 20px 10px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.activity a {
+    color: white;
+}
+
+
+/* ---###---###--- Color Card ---###---###--- */
+#a1 {
+    background: #571845;
+    border: 1px solid #571845;
+}
+
+#a2 {
+    background: #C70039;
+    border: 1px solid #C70039;
+}
+
+#a3 {
+    background: #900C3E;
+    border: 1px solid #900C3E;
+}
+
+#a4 {
+    background: #FFC300;
+    border: 1px solid #FFC300;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,53 @@
+/* ---###---###--- Main ---###---###--- */
+main {
+    margin: 20px;
+}
+
+main img {
+    width: 320px;
+    height: 250px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    box-shadow : 8px 8px 12px #aaa;
+    
+}
+
+main section p {
+    margin-top: 20px;
+}
+
+
+
+
+/* ---###---###--- Bouton ---###---###--- */
+.option {
+    color: white;
+    padding: 10px; 
+    border: 1px solid #348AF4;
+    border-radius: 5px;
+    background: #348AF4;
+    margin-right: 20px;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

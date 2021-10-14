@@ -1,0 +1,102 @@
+/* ---###---###--- Main ---###---###--- */
+main {
+    margin-bottom: 40px;
+    min-height: 500px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+
+/* ---###---###--- Formulaire ---###---###--- */
+.box {
+    text-align: center;
+}
+
+.box h2 {
+    margin-top: 30px;
+}
+
+.box input[type = "text"], .box input[type = "password"]{
+    border: 0;
+    background: none;
+    display: block;
+    margin: 10px auto;
+    text-align: center;
+    border: 2px solid #3498db;
+    padding: 14px 10px;
+    width: 200px;
+    outline: none;
+    color: white;
+    border-radius: 24px;
+    transition: 0.25s;
+}
+
+.box input[type = "text"]:focus, .box input[type = "password"]:focus {
+    width: 280px;
+    border-color: #499F68;
+}
+
+.box button[type = "submit"]{
+    border: 0;
+    background: none;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    border: 2px solid #499F68;
+    padding: 14px 40px;
+    outline: none;
+    color: #571845;
+    border-radius: 24px;
+    transition: 0.25s;
+    cursor: pointer;
+}
+
+.box button[type = "submit"]:hover{
+    background: #499F68;
+}
+
+::placeholder {
+  color: #571845;
+  font-size: 1em;
+}
+
+
+
+
+/* ---###---###--- Option ---###---###--- */
+.option {
+    color: white;
+    border: 1px solid #348AF4;
+    border-radius: 5px;
+    background: #348AF4;
+    padding: 10px; 
+    margin-left: 20px;
+    margin-top: 50px;
+    font-weight: bold;
+    font-size: 17px; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

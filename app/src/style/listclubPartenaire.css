@@ -1,0 +1,63 @@
+/* ---###---###--- Main ---###---###--- */
+main section {
+    margin: 20px 10px;
+}
+
+
+
+
+/* ---###---###--- Club ---###---###--- */
+.club {
+    color: white;
+    padding: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    border-radius: 10px;
+}
+
+.club img {
+    width: 140px;
+    height: 140px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    box-shadow : 8px 8px 12px #222;
+}
+
+.club div{
+    color: white;
+    display: grid;
+    grid-template-rows: 1fr 3fr;
+}
+
+.club h2 {
+    text-align: center;
+}
+
+
+
+
+
+/* ---###---###--- Color Card ---###---###--- */
+#c1 {
+    background: #571845;
+    border: 1px solid #571845;
+}
+
+#c2 {
+    background: #FFC300;
+    border: 1px solid #FFC300;
+}
+
+#c3 {
+    background: #900C3E;
+    border: 1px solid #900C3E;
+}
+
+#c4 {
+    background: #C70039;
+    border: 1px solid #C70039;
+}
+
+
+
