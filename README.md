@@ -10,7 +10,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 ### Home page
 ![alt text](https://github.com/Powarox2159/Fitup/blob/master/ressources/screen/home_page.png?raw=true)
-
+![alt text](https://github.com/Powarox2159/Fitup/blob/master/ressources/screen/menu.png?raw=true)
 ### Menu
 ![alt text](https://github.com/Powarox2159/Fitup/blob/master/ressources/screen/menu.png?raw=true)
 
